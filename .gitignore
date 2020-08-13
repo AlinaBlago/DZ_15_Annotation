@@ -1,0 +1,7 @@
+/data/target/
+/mainModule/target/
+/target/
+DZ_15_Annotation.iml
+.idea
+# Project exclude paths
+/main/target/
